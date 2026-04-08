@@ -97,7 +97,7 @@ Bons estudos e boas construções! 🚀
 
 ## 🟠 Desenvolvedor Júnior
 
-**Objetivo:** Dominar engenharia de prompt, entender o funcionamento de LLMs, economizar tokens e começar a integrar APIs de IA em projetos.
+**Objetivo:** Dominar engenharia de prompt, entender o funcionamento de LLMs, economizar tokens e integrar IA nas ferramentas de trabalho.
 
 ---
 
@@ -135,24 +135,6 @@ Bons estudos e boas construções! 🚀
 - [ReAct Prompting — Raciocínio + Ação](https://www.youtube.com/watch?v=Eug2clsLtFs) — Vídeo (EN)
 - [System Prompts: o que são e como usá-los bem](https://www.youtube.com/watch?v=jHReHC4XBVY) — Vídeo (EN)
 - [Structured Outputs com JSON Mode](https://platform.openai.com/docs/guides/structured-outputs) — Docs (EN)
-
----
-
-### 🔌 Integração com APIs de IA
-
-#### 🔹 OpenAI API
-- [OpenAI API Quickstart](https://platform.openai.com/docs/quickstart) — Docs (EN)
-- [OpenAI API com Python — Tutorial Completo](https://www.youtube.com/watch?v=OB99E7Y1cMA) — Vídeo (PT)
-- [OpenAI Cookbook — Exemplos práticos](https://cookbook.openai.com/) — Docs (EN)
-- [Criando chatbot com OpenAI API](https://www.youtube.com/watch?v=4qNwoAAfnk4) — Vídeo (PT)
-
-#### 🔹 Anthropic (Claude) API
-- [Anthropic API Quickstart](https://docs.anthropic.com/en/api/getting-started) — Docs (EN)
-- [Claude API com Python — Introdução](https://www.youtube.com/watch?v=QBpENOgRBZI) — Vídeo (EN)
-
-#### 🔹 Google Gemini API
-- [Gemini API Quickstart](https://ai.google.dev/gemini-api/docs/quickstart) — Docs (EN)
-- [Gemini API com Python](https://www.youtube.com/watch?v=0qv_4x1K6hU) — Vídeo (EN)
 
 ---
 
