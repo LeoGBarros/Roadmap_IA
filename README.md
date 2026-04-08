@@ -43,11 +43,11 @@ Bons estudos e boas construções! 🚀
 
 ### 📚 O que é Inteligência Artificial e IA Generativa
 
-- [Introdução à Inteligência Artificial — Google (PT)](https://grow.google/intl/pt-BR/cursos-e-ferramentas/?category=ai) — Curso gratuito (PT)
+- [Introdução à Inteligência Artificial — Google (PT)](https://www.coursera.org/specializations/ai-essentials-google) — Curso gratuito (PT)
 - [IA para Todos — Andrew Ng / Coursera (EN)](https://www.coursera.org/learn/ai-for-everyone) — Curso (EN) com legendas PT
 - [O que é IA Generativa? — IBM (PT)](https://www.youtube.com/watch?v=G2fqAlgmoPo) — Vídeo (PT)
 - [Generative AI in a Nutshell — How to Survive and Thrive in the Age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw) — Vídeo (EN)
-- [Entendendo IA Generativa do zero — Alura](https://www.youtube.com/watch?v=1Q5VNqrVIlU) — Vídeo (PT)
+- [Entendendo IA Generativa do zero — Microsoft](https://www.youtube.com/watch?v=DPsUmVN_sEA) — Vídeo (PT)
 - [Microsoft AI Skills Navigator](https://learn.microsoft.com/pt-br/ai/) — Documentação / Trilha (PT)
 
 ---
@@ -62,7 +62,7 @@ Bons estudos e boas construções! 🚀
 #### 🔹 Google Gemini
 - [Introdução ao Gemini — Google](https://gemini.google.com/) — Ferramenta
 - [Getting Started with Gemini — Google AI Studio](https://aistudio.google.com/) — Plataforma
-- [Gemini para Desenvolvedores — Google Cloud](https://www.youtube.com/watch?v=4QcJMSKCEIQ) — Vídeo (EN)
+- [Gemini para Desenvolvedores — Google 3](https://www.youtube.com/watch?v=ku-N-eS1lgM) — Vídeo (EN)
 - [Documentação Gemini API](https://ai.google.dev/docs) — Docs (EN)
 
 #### 🔹 GitHub Copilot
@@ -81,7 +81,7 @@ Bons estudos e boas construções! 🚀
 
 - [Prompt Engineering Guide — Guia Completo (PT)](https://www.promptingguide.ai/pt) — Documentação (PT)
 - [Learn Prompting — Open Source Guide](https://learnprompting.org/pt/docs/intro) — Guia (PT)
-- [Engenharia de Prompt para iniciantes — Rocketseat](https://www.youtube.com/watch?v=B-kpfQ3xCDs) — Vídeo (PT)
+- [Engenharia de Prompt para iniciantes — Rocketseat](https://www.youtube.com/watch?v=eETZjc0bQn8) — Vídeo (PT)
 - [O que são prompts e como usá-los bem](https://www.youtube.com/watch?v=jC4v5AS4RIM) — Vídeo (PT)
 - [5 dicas de prompt que todo dev deveria saber](https://www.youtube.com/watch?v=wVzuvf9D9BU) — Vídeo (PT)
 
@@ -89,10 +89,9 @@ Bons estudos e boas construções! 🚀
 
 ### 🔧 IA no Dia a Dia do Dev
 
-- [Como usar IA para escrever código melhor](https://www.youtube.com/watch?v=kfc5DfJKkT4) — Vídeo (PT)
-- [IA para revisar Pull Requests](https://www.youtube.com/watch?v=9H4eQ2p3Xb4) — Vídeo (EN)
-- [Usando IA para depurar erros mais rápido](https://www.youtube.com/watch?v=REasz5iJe5Y) — Vídeo (EN)
-- [ChatGPT para escrever testes unitários](https://www.youtube.com/watch?v=IaIa8CMx7cM) — Vídeo (PT)
+- [Como usar IA para escrever código melhor](https://www.youtube.com/watch?v=2Eam3XeRxHk) — Vídeo (PT)
+- [Usando IA para depurar erros mais rápido](https://www.youtube.com/watch?v=oiOiX2FkXJo) — Vídeo (EN)
+- [IA para escrever testes unitários](https://www.youtube.com/watch?v=174cq3v8IVI) — Vídeo (EN)
 
 ---
 
@@ -118,7 +117,7 @@ Bons estudos e boas construções! 🚀
 ### 💰 Economia de Tokens
 
 - [Guia de Economia de Tokens — OpenAI Cookbook](https://cookbook.openai.com/examples/how_to_count_tokens_with_tiktoken) — Docs/Código (EN)
-- [Estratégias para reduzir custo de tokens](https://www.youtube.com/watch?v=HYNuEBH_hSk) — Vídeo (EN)
+- [Estratégias para reduzir custo de tokens](https://www.youtube.com/watch?v=aGEPDVA38SM) — Vídeo (PT)
 - [Tiktoken — Biblioteca de contagem de tokens da OpenAI](https://github.com/openai/tiktoken) — GitHub (EN)
 - [Prompt Compression Techniques](https://www.youtube.com/watch?v=ahnGLM-RC1Y) — Vídeo (EN)
 - [Caching de prompts com a API da Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching) — Docs (EN)
@@ -134,7 +133,6 @@ Bons estudos e boas construções! 🚀
 - [Chain-of-Thought Prompting — Paper](https://arxiv.org/abs/2201.11903) — Paper (EN)
 - [Few-Shot vs Zero-Shot Prompting explicado](https://www.youtube.com/watch?v=v2gD8BHOaX4) — Vídeo (EN)
 - [ReAct Prompting — Raciocínio + Ação](https://www.youtube.com/watch?v=Eug2clsLtFs) — Vídeo (EN)
-- [System Prompts: o que são e como usá-los bem](https://www.youtube.com/watch?v=jHReHC4XBVY) — Vídeo (EN)
 - [Structured Outputs com JSON Mode](https://platform.openai.com/docs/guides/structured-outputs) — Docs (EN)
 
 ---
@@ -143,13 +141,13 @@ Bons estudos e boas construções! 🚀
 
 #### 🔹 OpenAI API
 - [OpenAI API Quickstart](https://platform.openai.com/docs/quickstart) — Docs (EN)
-- [OpenAI API com Python — Tutorial Completo](https://www.youtube.com/watch?v=OB99E7Y1cMA) — Vídeo (PT)
+- [OpenAI API com Python — Tutorial Completo](https://www.youtube.com/watch?v=OB99E7Y1cMA) — Vídeo (EN)
 - [OpenAI Cookbook — Exemplos práticos](https://cookbook.openai.com/) — Docs (EN)
-- [Criando chatbot com OpenAI API](https://www.youtube.com/watch?v=4qNwoAAfnk4) — Vídeo (PT)
+- [Criando chatbot com OpenAI API](https://www.youtube.com/watch?v=4qNwoAAfnk4) — Vídeo (EN)
 
 #### 🔹 Anthropic (Claude) API
 - [Anthropic API Quickstart](https://docs.anthropic.com/en/api/getting-started) — Docs (EN)
-- [Claude API com Python — Introdução](https://www.youtube.com/watch?v=QBpENOgRBZI) — Vídeo (EN)
+- [Claude API com Python — Introdução](https://www.youtube.com/watch?v=c4ERGJ_oyfI) — Vídeo (EN)
 
 #### 🔹 Google Gemini API
 - [Gemini API Quickstart](https://ai.google.dev/gemini-api/docs/quickstart) — Docs (EN)
@@ -161,15 +159,10 @@ Bons estudos e boas construções! 🚀
 
 #### 🔹 Conectando IA ao Jira
 - [Atlassian Intelligence — Visão Geral](https://www.atlassian.com/software/artificial-intelligence) — Docs (EN)
-- [Jira + OpenAI API — Automação de Issues](https://www.youtube.com/watch?v=gFAvknKbAIk) — Vídeo (EN)
-- [Criando automações no Jira com IA](https://www.youtube.com/watch?v=nWXF3lP5mYg) — Vídeo (EN)
-- [Atlassian Rovo — IA nativa no Jira/Confluence](https://www.atlassian.com/software/rovo) — Produto
+- [Criando automações no Jira com IA](https://www.youtube.com/watch?v=WRvgMzYaIVo) — Vídeo (EN)
 
 #### 🔹 IA no Excel e Planilhas
-- [Microsoft Copilot no Excel — Tutorial](https://www.youtube.com/watch?v=wFMU7Aq6dxk) — Vídeo (PT)
-- [Usando ChatGPT com Excel — Macros e fórmulas](https://www.youtube.com/watch?v=dNr4g1ZMYWQ) — Vídeo (PT)
-- [Google Sheets + Gemini — Integração](https://www.youtube.com/watch?v=KtDC7VfWuMs) — Vídeo (EN)
-- [Python + OpenAI para processar planilhas](https://www.youtube.com/watch?v=3gp-l1S2d7g) — Vídeo (EN)
+- [Google Sheets + Gemini — Integração](https://www.youtube.com/watch?v=3MFRYVxrNPI) — Vídeo (PT)
 
 ---
 
@@ -183,7 +176,7 @@ Bons estudos e boas construções! 🚀
 
 - [What are AI Agents? — IBM](https://www.youtube.com/watch?v=F8NKVhkZZWI) — Vídeo (EN)
 - [AI Agents Explained — Andrej Karpathy](https://www.youtube.com/watch?v=fqVLjtvWgq8) — Vídeo (EN)
-- [Agentes de IA: como funcionam e para que servem](https://www.youtube.com/watch?v=WT9_GnbNS2s) — Vídeo (PT)
+- [Agentes de IA: como funcionam e para que servem](https://www.youtube.com/watch?v=Wp95PxRoMS0) — Vídeo (PT)
 - [Building AI Agents — DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) — Curso gratuito (EN)
 - [AI Agentic Design Patterns — Andrew Ng](https://www.youtube.com/watch?v=sal78ACtGTc) — Vídeo (EN)
 - [Anthropic — Building effective agents (guia oficial)](https://www.anthropic.com/research/building-effective-agents) — Artigo (EN)
@@ -195,12 +188,6 @@ Bons estudos e boas construções! 🚀
 #### 🔹 LangChain
 - [LangChain Crash Course — 2024](https://www.youtube.com/watch?v=nAmC7SoVLd8) — Vídeo (EN)
 - [LangChain Docs — Introduction](https://python.langchain.com/docs/introduction/) — Docs (EN)
-- [LangChain com Python — Curso Completo](https://www.youtube.com/playlist?list=PLpdmBGJ6ELUKFvCcJxIF9XNqjJAWLiNFf) — Playlist (PT)
-
-#### 🔹 LangGraph
-- [LangGraph — Criando Agentes com Grafos de Estado](https://www.youtube.com/watch?v=5h-JBkySK34) — Vídeo (EN)
-- [LangGraph Docs](https://langchain-ai.github.io/langgraph/) — Docs (EN)
-- [AI Agents in LangGraph — DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) — Curso (EN)
 
 #### 🔹 LlamaIndex
 - [LlamaIndex — O que é e como usar](https://www.youtube.com/watch?v=cNMYeW2mpBs) — Vídeo (EN)
@@ -231,7 +218,7 @@ Bons estudos e boas construções! 🚀
 ### 🔧 Skills, Rules e Arquitetura de Sistemas com IA
 
 - [System Prompts Avançados — Roles, Rules, Skills](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts) — Docs (EN)
-- [Construindo AI com contexto persistente](https://www.youtube.com/watch?v=qJnO8bP8n4k) — Vídeo (EN)
+- [Construindo AI com contexto persistente](https://www.youtube.com/watch?v=aMJUnOeOs2k) — Vídeo (PT)
 - [Tool Use / Function Calling — OpenAI](https://platform.openai.com/docs/guides/function-calling) — Docs (EN)
 - [Tool Use — Anthropic Claude](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) — Docs (EN)
 - [Building Reliable AI Systems — DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/) — Curso (EN)
@@ -243,7 +230,6 @@ Bons estudos e boas construções! 🚀
 - [Anthropic MCP — Visão Geral](https://www.anthropic.com/news/model-context-protocol) — Artigo (EN)
 - [Model Context Protocol Docs](https://modelcontextprotocol.io/introduction) — Docs (EN)
 - [MCP Explained — Conectando IA a ferramentas externas](https://www.youtube.com/watch?v=7j_NE6Pjv-E) — Vídeo (EN)
-- [Criando um MCP Server do zero](https://www.youtube.com/watch?v=dHHnKTd_h6I) — Vídeo (EN)
 - [MCP com Jira, Notion, GitHub — Exemplos práticos](https://github.com/modelcontextprotocol/servers) — GitHub (EN)
 
 ---
@@ -252,7 +238,7 @@ Bons estudos e boas construções! 🚀
 
 - [OWASP LLM Top 10 — Principais riscos em apps com LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/) — Docs (EN)
 - [Prompt Injection — Como funciona e como mitigar](https://www.youtube.com/watch?v=Sv5OLj2nVAQ) — Vídeo (EN)
-- [LLM Evaluation — Como avaliar qualidade de respostas](https://www.youtube.com/watch?v=diGB8SlyaAw) — Vídeo (EN)
+- [LLM Evaluation — Como avaliar qualidade de respostas](https://www.youtube.com/watch?v=8QhBknQ3wbc) — Vídeo (PT)
 - [Evals — Avaliação de modelos com OpenAI](https://cookbook.openai.com/examples/evaluation/getting_started_with_openai_evals) — Docs (EN)
 - [Responsible AI Practices — Google](https://ai.google/responsibility/responsible-ai-practices/) — Docs (EN)
 
@@ -261,13 +247,11 @@ Bons estudos e boas construções! 🚀
 ### 🔗 Integrações Avançadas
 
 #### 🔹 IA + Jira Avançado
-- [Jira Automation com Scripts e IA](https://www.youtube.com/watch?v=8oiKDXwG0dU) — Vídeo (EN)
 - [Integrando LLMs com Jira via API REST](https://developer.atlassian.com/cloud/jira/platform/rest/v3/) — Docs (EN)
 - [Usando LangChain com o Jira](https://python.langchain.com/docs/integrations/tools/jira/) — Docs (EN)
 
 #### 🔹 IA + Excel / Google Sheets Avançado
-- [Python + openpyxl + IA para análise de planilhas](https://www.youtube.com/watch?v=nsKIHFE0FmQ) — Vídeo (EN)
-- [Agente de IA para análise de CSVs e Excel](https://www.youtube.com/watch?v=IiYVs-cUgCY) — Vídeo (EN)
+- [IA para análise de CSVs e Excel](https://www.youtube.com/watch?v=WqVrzzVSIcA) — Vídeo (EN)
 - [Microsoft Copilot Studio — Construindo copilotos](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/) — Docs (PT)
 
 ---
@@ -291,9 +275,7 @@ Bons estudos e boas construções! 🚀
 ### 🏗️ Arquitetura de Sistemas com IA em Produção
 
 - [LLMOps — Operacionalização de LLMs](https://www.deeplearning.ai/short-courses/llmops/) — Curso (EN)
-- [Building Production-Ready RAG](https://www.youtube.com/watch?v=XKQWF22m7AY) — Vídeo (EN)
 - [Padrões de Arquitetura para Apps com LLM](https://www.youtube.com/watch?v=wd7TZ4w1mSw) — Vídeo (EN)
-- [Latency, Cost and Quality Tradeoffs in LLM Apps](https://www.youtube.com/watch?v=RUZT2e_wBY8) — Vídeo (EN)
 - [Designing AI Systems — Google Cloud Architecture](https://cloud.google.com/architecture/ai-ml) — Docs (EN)
 - [MLflow — Gerenciamento do ciclo de vida de modelos](https://mlflow.org/docs/latest/index.html) — Docs (EN)
 
@@ -305,7 +287,6 @@ Bons estudos e boas construções! 🚀
 - [LangSmith — Debugging e Eval para LangChain](https://docs.smith.langchain.com/) — Docs (EN)
 - [Arize Phoenix — Tracing de Agentes de IA](https://docs.arize.com/phoenix) — Docs (EN)
 - [Braintrust — Plataforma de Eval para LLMs](https://www.braintrust.dev/docs) — Docs (EN)
-- [Automated LLM Evaluation Techniques](https://www.youtube.com/watch?v=ZsAbJ3B4Yvk) — Vídeo (EN)
 
 ---
 
@@ -352,27 +333,25 @@ Bons estudos e boas construções! 🚀
 ### 📚 IA para QA — Fundamentos
 
 - [O que é IA e para que serve — visão geral](https://www.youtube.com/watch?v=G2fqAlgmoPo) — Vídeo (PT)
-- [IA para iniciantes em QA — o que muda?](https://www.youtube.com/watch?v=Fez7nBkHclE) — Vídeo (EN)
-- [Introdução a testes de software](https://www.youtube.com/watch?v=CzlRe-1TFJo) — Vídeo (PT)
-- [ChatGPT para criar casos de teste](https://www.youtube.com/watch?v=iDPdR6bkSb8) — Vídeo (EN)
+- [IA para iniciantes em QA — o que muda?](https://www.youtube.com/watch?v=1wYIns_lwiY&t=2s) — Vídeo (EN)
+- [Uso prático de IA em QA](https://hastewire.com/blog/chatgpt-testing-automate-test-cases-with-ai-in-qa?utm_source=chatgpt.com) — Docs (EN)
 
 ---
 
 ### 🛠️ Usando IA no Dia a Dia do QA
 
-- [Usando ChatGPT para criar cenários de teste BDD](https://www.youtube.com/watch?v=OZE0xSNDMXk) — Vídeo (EN)
 - [GitHub Copilot para QA — primeiros passos](https://www.youtube.com/watch?v=Fi3AJZZregI) — Vídeo (PT)
-- [IA para gerar massa de dados de teste](https://www.youtube.com/watch?v=cXZ-9XAbOPk) — Vídeo (EN)
-- [Usando Gemini para escrever planos de teste](https://www.youtube.com/watch?v=Gj8KMFPxVCM) — Vídeo (EN)
-- [Ferramentas de IA para QA — comparativo](https://www.youtube.com/watch?v=oQd4NBIX3ic) — Vídeo (EN)
+- [Usando ChatGPT para criar cenários de teste BDD](https://www.youtube.com/watch?v=KajhOpfVCv0) — Vídeo (EN)
+- [Usando Gemini para escrever planos de teste](https://www.youtube.com/watch?v=0S6U0P__gaY) — Vídeo (EN)
+- [impacto da IA no dia a dia](https://www.youtube.com/watch?v=VPvvjx2CAMk) — Vídeo (PT)
 
 ---
 
 ### 📝 Introdução a Prompts para QA
 
 - [Prompt Engineering para QAs — guia básico](https://learnprompting.org/pt/docs/intro) — Guia (PT)
-- [Como pedir para a IA criar casos de teste bem escritos](https://www.youtube.com/watch?v=sOxMGBp-0sg) — Vídeo (EN)
-- [Templates de prompt para testes](https://www.youtube.com/watch?v=9y4XgBfwjuE) — Vídeo (EN)
+- [Como pedir para a IA criar casos de teste bem escritos](https://www.youtube.com/watch?v=sfJ-VZDakQM) — Vídeo (PT)
+- [Templates de prompt para testes](https://www.youtube.com/watch?v=x432efxE6QA) — Vídeo (EN)
 
 ---
 
@@ -384,28 +363,19 @@ Bons estudos e boas construções! 🚀
 
 ### 🤖 Geração de Testes com IA
 
-- [AI-Powered Test Generation — Testim](https://www.youtube.com/watch?v=Xm1oJjMlpg0) — Vídeo (EN)
-- [Usando LLMs para gerar testes automatizados com Playwright](https://www.youtube.com/watch?v=J4TGdQ65x3k) — Vídeo (EN)
-- [Copilot para escrever scripts de Selenium/Cypress](https://www.youtube.com/watch?v=ot76DmSQdT8) — Vídeo (EN)
-- [ChatGPT + Cypress — automação de testes](https://www.youtube.com/watch?v=7Z4ZSZK8VXI) — Vídeo (PT)
-- [Ferramentas de teste com IA: Mabl, Testim, Applitools](https://www.youtube.com/watch?v=KF1nkQtjXRs) — Vídeo (EN)
-
----
-
-### 🔌 IA Integrada ao Jira para QA
-
-- [Criando relatórios de bug com IA no Jira](https://www.youtube.com/watch?v=f5K5aKs8R8Q) — Vídeo (EN)
-- [Zephyr Scale + IA — gerenciamento de testes](https://www.youtube.com/watch?v=hT9O3W8fI5A) — Vídeo (EN)
-- [Xray + IA para automação de testes no Jira](https://www.youtube.com/watch?v=a6gGKvMfRvI) — Vídeo (EN)
-- [Automatizando abertura de bugs com ChatGPT + Jira API](https://www.youtube.com/watch?v=gFAvknKbAIk) — Vídeo (EN)
+- [AI-Powered Test Generation — Testim]
+- [Usando LLMs para gerar testes automatizados com Playwright]
+- [Copilot para escrever scripts de Selenium/Cypress]
+- [ChatGPT + Cypress — automação de testes]
+- [Ferramentas de teste com IA: Mabl, Testim, Applitools]
 
 ---
 
 ### 📊 IA para Análise de Resultados
 
-- [Usando IA para analisar logs de testes](https://www.youtube.com/watch?v=3UbV6o7xBgM) — Vídeo (EN)
-- [Detectando falhas recorrentes com IA](https://www.youtube.com/watch?v=c1VFj2r9lYw) — Vídeo (EN)
-- [ChatGPT para interpretar relatórios de testes automatizados](https://www.youtube.com/watch?v=dSq_0BenD9M) — Vídeo (EN)
+- [Usando IA para analisar logs de testes]
+- [Detectando falhas recorrentes com IA]
+- [ChatGPT para interpretar relatórios de testes automatizados]
 
 ---
 
@@ -417,12 +387,11 @@ Bons estudos e boas construções! 🚀
 
 ### 🧪 Testando Aplicações com IA
 
-- [Testing AI-Powered Applications — Ministry of Testing](https://www.ministryoftesting.com/articles/testing-ai-powered-applications) — Artigo (EN)
-- [How to Test Generative AI Applications](https://www.youtube.com/watch?v=TXq5VXtpjgE) — Vídeo (EN)
-- [Desafios de testar LLMs e sistemas não-determinísticos](https://www.youtube.com/watch?v=VBq3-moqkBw) — Vídeo (EN)
-- [Avaliação de qualidade de respostas de LLMs](https://www.youtube.com/watch?v=diGB8SlyaAw) — Vídeo (EN)
+- [Testing AI-Powered Applications ]
+- [How to Test Generative AI Applications]
+- [Desafios de testar LLMs e sistemas não-determinísticos]
+- [Avaliação de qualidade de respostas de LLMs]
 - [Testes de segurança em sistemas com IA — adversarial testing](https://www.youtube.com/watch?v=Sv5OLj2nVAQ) — Vídeo (EN)
-- [AI Testing Fundamentals — ISTQB AI Testing](https://www.istqb.org/certifications/artificial-intelligence-tester) — Certificação (EN)
 
 ---
 
@@ -430,7 +399,6 @@ Bons estudos e boas construções! 🚀
 
 - [OWASP LLM Top 10 para QA](https://owasp.org/www-project-top-10-for-large-language-model-applications/) — Docs (EN)
 - [Bias Testing em modelos de IA](https://www.youtube.com/watch?v=59bMh59JQDo) — Vídeo (EN)
-- [Hallucination Detection — Testando alucinações de IA](https://www.youtube.com/watch?v=NFR55rw2MxM) — Vídeo (EN)
 - [Ragas — Framework de avaliação para RAG](https://docs.ragas.io/en/latest/) — Docs (EN)
 - [DeepEval — Framework de testes para LLMs](https://docs.confident-ai.com/) — Docs (EN)
 
@@ -441,8 +409,6 @@ Bons estudos e boas construções! 🚀
 - [Playwright AI — Geração automática de locators](https://playwright.dev/docs/codegen) — Docs (EN)
 - [Applitools — Testes visuais com IA](https://applitools.com/docs/) — Docs (EN)
 - [Mabl — Plataforma de testes com IA](https://www.mabl.com/docs) — Docs (EN)
-- [Sauce Labs com IA — automação inteligente](https://www.youtube.com/watch?v=FeQ-MFLR_Fc) — Vídeo (EN)
-- [Buildando seus próprios scripts de teste com LangChain](https://www.youtube.com/watch?v=nAmC7SoVLd8) — Vídeo (EN)
 
 ---
 
@@ -454,11 +420,10 @@ Bons estudos e boas construções! 🚀
 
 ### 🏗️ Estratégia de Qualidade para IA
 
-- [AI Quality Framework — NIST AI RMF](https://airc.nist.gov/RMF_Overview) — Framework (EN)
 - [Quality Assurance for AI/ML Systems — Google](https://testing.googleblog.com/2023/04/testing-ai.html) — Artigo (EN)
-- [Construindo uma estratégia de testes para produtos com IA](https://www.youtube.com/watch?v=lnLuL-xR1bU) — Vídeo (EN)
+- [Construindo uma estratégia de testes para produtos com IA]
 - [Responsible AI Testing — Microsoft](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai) — Docs (EN)
-- [AI Evaluation Red Teaming](https://www.youtube.com/watch?v=0JPVXKPvHrk) — Vídeo (EN)
+- [AI Evaluation Red Teaming]
 
 ---
 
@@ -466,14 +431,13 @@ Bons estudos e boas construções! 🚀
 
 - [Precision, Recall, F1 para QA de IA](https://www.youtube.com/watch?v=jJ7JbQBTChM) — Vídeo (EN)
 - [Avaliação de modelos — BLEU, ROUGE, METEOR](https://www.youtube.com/watch?v=M05L1DhFqcw) — Vídeo (EN)
-- [LLM-as-a-Judge — usando IA para avaliar IA](https://www.youtube.com/watch?v=kJDFWvg3eTo) — Vídeo (EN)
+- [LLM-as-a-Judge — usando IA para avaliar IA]
 
 ---
 
 ### 🔗 Referências QA Sênior
 
 - [Ministry of Testing — AI Testing](https://www.ministryoftesting.com/topics/artificial-intelligence) — EN
-- [ISTQB AI Testing Certification](https://www.istqb.org/) — EN
 - [DeepEval Docs](https://docs.confident-ai.com/) — EN
 - [Ragas Docs](https://docs.ragas.io/) — EN
 - [AI Test Automation — Awesome List](https://github.com/atinfo/awesome-test-automation) — GitHub (EN)
@@ -489,80 +453,57 @@ Bons estudos e boas construções! 🚀
 ## 📚 Fundamentos de IA para Gestores
 
 - [IA para Todos — Andrew Ng / Coursera (PT)](https://www.coursera.org/learn/ai-for-everyone) — Curso (EN) legendas PT
-- [O que os gestores precisam saber sobre IA](https://www.youtube.com/watch?v=Xo6VzauVdpM) — Vídeo (PT)
-- [Harvard — AI Basics for Everyone](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) — Curso (EN)
-- [Gestão de projetos na era da IA — PMI](https://www.pmi.org/learning/thought-leadership/artificial-intelligence) — Artigos (EN)
-- [Como a IA muda o trabalho do PM — Product Management](https://www.youtube.com/watch?v=qRkqKH2cVOE) — Vídeo (EN)
-- [IA Generativa para Gestores — Microsoft Learn](https://learn.microsoft.com/pt-br/training/modules/introduction-generative-ai/) — Curso (PT)
+- [O que os gestores precisam saber sobre IA](https://www.youtube.com/watch?v=krrdKti6K2g) — Vídeo (PT)
+- [Como a IA muda o trabalho do PM — Product Management](https://www.youtube.com/watch?v=LxtwZLIqc-Y) — Vídeo (PT)
 
 ---
-
 ## 🛠️ Ferramentas de IA para Gestão
 
 ### 🔹 Produtividade com IA
-- [Notion AI — Para gestão de projetos e documentação](https://www.youtube.com/watch?v=GbLQE2C181U) — Vídeo (PT)
-- [Microsoft Copilot para Teams e Outlook](https://www.youtube.com/watch?v=FC1PiVVe_D4) — Vídeo (PT)
-- [ChatGPT para criar atas de reunião automaticamente](https://www.youtube.com/watch?v=NbcshsIhQ3U) — Vídeo (PT)
-- [Fireflies.ai — Transcrição e resumo de reuniões](https://www.youtube.com/watch?v=9oOqJqPnmBE) — Vídeo (EN)
-- [Otter.ai — Notas de reunião com IA](https://otter.ai/) — Ferramenta
+- [IA do NOTION e a Revolução do Aprendizado](https://www.youtube.com/watch?v=lLhebV3Edbw) — Vídeo (PT)
+- [Notion AI — Visão Geral e Casos de Uso](https://www.notion.so/pt-br/product/ai) — Página Oficial (PT)
+- [Fireflies.ai — Transcrição e resumo de reuniões](https://fireflies.ai/) — Ferramenta (EN)
+- [Otter.ai — Notas de reunião com IA](https://otter.ai/) — Ferramenta (EN)
 
 ### 🔹 IA no Jira para Gestores
-- [Atlassian Intelligence — Recursos de IA no Jira](https://www.youtube.com/watch?v=kvSGTNmw6Lw) — Vídeo (EN)
-- [Usando IA para priorizar backlog no Jira](https://www.youtube.com/watch?v=KBNjE5jMlNs) — Vídeo (EN)
-- [Atlassian Rovo — IA no ecossistema Atlassian](https://www.atlassian.com/software/rovo) — Produto
-- [Relatórios automáticos no Jira com IA](https://www.youtube.com/watch?v=OqvX4i2RYAU) — Vídeo (EN)
+- [Introduction to Atlassian Intelligence in Jira](https://www.youtube.com/watch?v=G5EBWZZam-Y) — Vídeo (EN)
+- [Como a IA está transformando a Priorização e Backlog no Jira](https://www.atlassian.com/blog/jira-software/ai-jira-software) — Artigo (EN)
+- [Atlassian Rovo — IA no ecossistema Atlassian](https://www.atlassian.com/software/rovo) — Produto (EN)
 
 ### 🔹 IA no Excel e Google Sheets
-- [Microsoft Copilot no Excel para Gestores](https://www.youtube.com/watch?v=wFMU7Aq6dxk) — Vídeo (PT)
-- [Análise de dados com ChatGPT + Excel](https://www.youtube.com/watch?v=dNr4g1ZMYWQ) — Vídeo (PT)
-- [Google Sheets + Gemini — Análise automática](https://www.youtube.com/watch?v=KtDC7VfWuMs) — Vídeo (EN)
-- [Criar dashboards com IA em minutos](https://www.youtube.com/watch?v=MrNiMEZ4s9M) — Vídeo (PT)
+- [How to Use Copilot in Excel: Full Tutorial](https://www.youtube.com/watch?v=z8L2w5utx-M) — Vídeo (EN)
+- [Tutorial de Análise de Dados com ChatGPT + Excel (DataCamp)](https://www.datacamp.com/tutorial/chatgpt-excel) — Guia (EN)
+- [Power BI e Copilot — Criando dashboards e relatórios com IA](https://learn.microsoft.com/pt-br/power-bi/create-reports/copilot-introduction) — Documentação (PT)
 
 ### 🔹 Comunicação e Documentação
-- [Usando IA para criar apresentações (Gamma.app)](https://www.youtube.com/watch?v=5eJ4PPPQV8U) — Vídeo (PT)
-- [ChatGPT para escrever documentos de requisitos (BRD/PRD)](https://www.youtube.com/watch?v=wUr-cGMH4GM) — Vídeo (EN)
-- [IA para criar roadmaps e comunicados](https://www.youtube.com/watch?v=9v4YmDQqgFY) — Vídeo (EN)
-- [Midjourney / DALL-E para criar imagens em apresentações](https://www.youtube.com/watch?v=AjKm_Bl_DRQ) — Vídeo (PT)
+- [Como Criar Apresentações com IA usando o Gamma - Tutorial](https://www.youtube.com/watch?v=FasHAWUFDeI) — Vídeo (PT)
+- [Gamma.app — IA para criar apresentações em minutos](https://gamma.app/) — Ferramenta (EN/PT)
+- [Como escrever Documentos de Requisitos (PRDs) usando ChatGPT](https://www.productplan.com/learn/chatgpt-for-product-managers/) — Artigo (EN)
 
 ---
 
 ## 📝 Engenharia de Prompt para Gestores
 
+- [Domine Prompt Engineering em 1 Hora (Guia Completo)](https://www.youtube.com/watch?v=vadrKu3Z364) — Vídeo (PT)
 - [Prompt Engineering para não-técnicos](https://learnprompting.org/pt/docs/intro) — Guia (PT)
-- [Como pedir o que você quer para a IA — técnicas práticas](https://www.youtube.com/watch?v=dOxUroR57xs) — Vídeo (PT)
-- [Os 10 melhores prompts para gestores de projetos](https://www.youtube.com/watch?v=FLT0WTNhVKQ) — Vídeo (EN)
-- [Prompts para criar análises de risco com IA](https://www.youtube.com/watch?v=1S_0mSBSUm0) — Vídeo (EN)
-- [Como usar IA para preparar stakeholder updates](https://www.youtube.com/watch?v=lUHn3fX2kpw) — Vídeo (EN)
+- [Como Gestores de Projetos podem usar IA (PMI)](https://www.pmi.org/learning/thought-leadership/ai-impact/project-managers-guide-to-artificial-intelligence) — Guia Prático (EN)
 
 ---
 
 ## 📊 IA para Tomada de Decisão e Dados
 
-- [Análise de dados com ChatGPT Advanced Data Analysis](https://www.youtube.com/watch?v=pVPp4ldOzJU) — Vídeo (PT)
-- [IA para análise de métricas de projetos](https://www.youtube.com/watch?v=C4AFSB40v3M) — Vídeo (EN)
-- [Power BI + Copilot — Dashboards com IA](https://www.youtube.com/watch?v=aSIi2nJBjrI) — Vídeo (PT)
-- [Looker Studio + IA para relatórios](https://www.youtube.com/watch?v=TTiN0EBBsDI) — Vídeo (EN)
+- [Como fazer análise de dados com o ChatGPT (Passo a Passo)](https://www.youtube.com/watch?v=2j2ePv0sqrQ) — Vídeo (PT)
+- [Visão Geral: Advanced Data Analysis no ChatGPT](https://openai.com/index/chatgpt-advanced-data-analysis/) — Documentação Oficial (EN)
+- [Como a IA está mudando a Ciência da Tomada de Decisão (MIT Sloan)](https://sloanreview.mit.edu/article/how-ai-is-changing-the-science-of-decision-making/) — Artigo (EN)
 
 ---
 
 ## 🤝 Liderança de Times com IA
 
-- [Como liderar times em projetos com IA integrada](https://www.youtube.com/watch?v=0hUVpFGSIHo) — Vídeo (EN)
-- [Gestão de mudança na adoção de IA](https://www.youtube.com/watch?v=xo4ORb7CGZY) — Vídeo (EN)
-- [Capacitando seu time no uso de IA](https://www.youtube.com/watch?v=b9XkqvAo0JQ) — Vídeo (EN)
-- [Ética e responsabilidade no uso de IA em times](https://www.youtube.com/watch?v=UG_X_7g63rY) — Vídeo (PT)
-- [Como construir uma cultura de IA na empresa](https://www.youtube.com/watch?v=vXu7SiHwImo) — Vídeo (EN)
-- [AI Transformation Playbook — Andrew Ng](https://landing.ai/resources/ai-transformation-playbook/) — PDF gratuito (EN)
-
----
-
-## 📜 Regulação e Ética para Gestores
-
-- [AI Act (EU) — o que é e o que muda](https://www.youtube.com/watch?v=Fji_JHkKBPU) — Vídeo (EN)
-- [LGPD e IA — Como aplicar no Brasil](https://www.youtube.com/watch?v=y6tHMLCBODA) — Vídeo (PT)
-- [IA responsável — guia para gestores](https://cloud.google.com/responsible-ai) — Docs (EN)
-- [Anthropic — Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) — Artigo (EN)
-
+- [AI for Everyone by Andrew Ng (Aula 1)](https://www.youtube.com/watch?v=JPcx9qHzzgk) — Vídeo (EN)
+- [AI Transformation Playbook — Andrew Ng](https://landing.ai/resources/ai-transformation-playbook/) — PDF Gratuito (EN)
+- [Liderando sua Equipe durante a Transição para a IA (HBR)](https://hbr.org/2023/11/leading-your-team-through-the-ai-transition) — Artigo (EN)
+- [Ética em IA: Diretrizes e Responsabilidade para Gestores (IBM)](https://www.ibm.com/br-pt/topics/ai-ethics) — Guia (PT)
 ---
 
 ### 🔗 Referências para Gestores
